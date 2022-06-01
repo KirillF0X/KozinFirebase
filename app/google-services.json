@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841303342950",
+    "firebase_url": "https://sport-4a5a4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sport-4a5a4",
+    "storage_bucket": "sport-4a5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841303342950:android:7ff5f29f2644b1a1ff92a7",
+        "android_client_info": {
+          "package_name": "com.example.kozinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841303342950-2rbcnglq9fk3ks37i7hpsunt2fljlpem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3S7p41D0U13sniHW1kw_OcVZlhYx1544"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841303342950-2rbcnglq9fk3ks37i7hpsunt2fljlpem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
